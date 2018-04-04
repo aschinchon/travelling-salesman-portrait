@@ -4,11 +4,11 @@ After completing this experiment you will be able to create *one line drawing* f
 
 For example, if you load this image:
 
-<img src="https://fronkonstin.com/wp-content/uploads/2018/04/frankenstein.jpg" height="400" align="middle">
+<img src="https://fronkonstin.com/wp-content/uploads/2018/04/frankenstein.jpg" height="600" align="middle">
 
 The resulting portrait is this one:
 
-<img src="https://fronkonstin.com/wp-content/uploads/2018/04/frankyTSP.png" height="400" align="middle">
+<img src="https://fronkonstin.com/wp-content/uploads/2018/04/frankyTSP.png" height="600" align="middle">
 
 ## Getting Started
 
