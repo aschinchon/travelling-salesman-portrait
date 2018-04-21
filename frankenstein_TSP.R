@@ -24,15 +24,8 @@ as.TSP(dist(data)) %>%
   solve_TSP(method = "arbitrary_insertion") %>% 
   as.integer() -> solution
 
-# Create a dataframe with the output of TSP
-data.frame(id=solution) %>% 
-  mutate(order=row_number()) -> order
-
 # Rearrange the original points according the TSP output
-data %>% 
-  mutate(id=row_number()) %>% 
-  inner_join(order, by="id") %>% arrange(order) %>% 
-  select(x,y) -> data_to_plot
+data_to_plot <- data[solution,]
 
 # A little bit of ggplot to plot results
 ggplot(data_to_plot, aes(x,y)) +
