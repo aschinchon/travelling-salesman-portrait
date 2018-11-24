@@ -5,7 +5,7 @@ After completing this experiment you will be able to create *one line drawing* f
 For example, if you load this image:
 
 <img src="https://fronkonstin.com/wp-content/uploads/2018/04/frankenstein.jpg"
-style="max-height: 100px; max-width: 100px;" />
+style="max-height: 50px; max-width: 50px;" />
 
 The resulting portrait is this one:
 
