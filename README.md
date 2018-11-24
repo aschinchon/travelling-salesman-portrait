@@ -9,7 +9,7 @@ style="max-height: 50px; max-width: 50px;" />
 
 The resulting portrait is this one:
 
-<img src="https://fronkonstin.com/wp-content/uploads/2018/04/frankyTSP.png" style="max-height: 100px; max-width: 100px;" />
+<img src="https://fronkonstin.com/wp-content/uploads/2018/04/frankyTSP.png" style="max-height: 50px; max-width: 50px;" />
 
 ## Getting Started
 
