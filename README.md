@@ -4,7 +4,8 @@ After completing this experiment you will be able to create *one line drawing* f
 
 For example, if you load this image:
 
-<img src="https://fronkonstin.com/wp-content/uploads/2018/04/frankenstein.jpg" height="600" align="middle">
+<img src="https://fronkonstin.com/wp-content/uploads/2018/04/frankenstein.jpg"
+style="max-height: 100px; max-width: 100px;" />
 
 The resulting portrait is this one:
 
